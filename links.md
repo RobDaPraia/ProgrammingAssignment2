@@ -1,4 +1,14 @@
 
+### Matrix calculations
+
+* http://www.ats.ucla.edu/stat/r/library/matrix_alg.htm
+* http://www.r-tutor.com/r-introduction/matrix/matrix-construction
+
+### Excel links
+
+* In Excel you can inverse a matrix by "=MINVERSE(B2:C3)"
+* http://blog.modelworks.ch/?p=398
+* http://www.excelfunctions.net/Excel-Minverse-Function.html
 
 ### Create packages links
 
