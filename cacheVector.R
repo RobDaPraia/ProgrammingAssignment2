@@ -2,8 +2,6 @@
 
 ## Some help /explanations here: https://class.coursera.org/rprog-011/forum/thread?thread_id=105
 
-
-
 ## Let's say you have created a matrix and you have called cachemean() and the value is now cached.  
 ## What if I want to change the values in the matrix?  If there isn't something to reset the values 
 ## and invalidate the cache, the next call to cachemean() would return the wrong results.  
